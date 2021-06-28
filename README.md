@@ -3,6 +3,7 @@ Simple hacked client loader for Minecraft.
 
 ## Features
 Dnspy Checker (if dnspy is found you will be BANNED from the program)
+
 Jar Checker (checking minecraft .JAR file)
 
 ## Issues
