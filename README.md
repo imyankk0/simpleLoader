@@ -1,5 +1,5 @@
 # Simple C# Console Cheat Loader for Minecraft
-Simple C# Console Applciation Hacked Client Loader for Minecraft.
+Simple C# Console Application Hacked Client Loader for Minecraft.
 
 ## Features
 - Dnspy Checker (if dnspy is found you will be BANNED from the program)
