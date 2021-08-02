@@ -30,22 +30,19 @@ namespace loader
                 }
                 Environment.Exit(0);
             }
-            Console.Title = "Vanus Client"; // Yazılımınızın ismini buraya yazın
+            Console.Title = "imyankk0"; // Yazılımınızın ismini buraya yazın
             String vanusyazi = @"
-██╗   ██╗ █████╗ ███╗   ██╗██╗   ██╗███████╗
-██║   ██║██╔══██╗████╗  ██║██║   ██║██╔════╝
-██║   ██║███████║██╔██╗ ██║██║   ██║███████╗     By Morsy#7331
-╚██╗ ██╔╝██╔══██║██║╚██╗██║██║   ██║╚════██║
- ╚████╔╝ ██║  ██║██║ ╚████║╚██████╔╝███████║
-  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
-                                            
+imyankk0 client
+
+credits:
+loader by Morsy
 ";                                                // buradaki gibi ASCII yazı oluşturmak isterseniz "https://patorjk.com/software/taag/" sitesine göz atın
             Console.ForegroundColor = ConsoleColor.Red; // ASCII yazı rengi
             Console.WriteLine(vanusyazi); // ASCII yazı çalıştırılıyor
             Console.ForegroundColor = ConsoleColor.White; // sisteme giriş yapıldıktan sonraki yazıların rengi
             if (File.Exists(crkonum)) // RiseClient.jar (CRAFTRISE) bulunduysa programa giriş yapılıyor bulunmadıysa kapatıyor
             {
-                Console.WriteLine("Welcome to Vanus Client");
+                Console.WriteLine("Welcome to imyankk0");
             }
             else
             {
